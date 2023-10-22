@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: dentistry
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: glauciafernandes
+Implementation-Vendor-Id: br.com.dentistry
+Build-Jdk: 1.8.0_65
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/dentistry
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,4 @@
+br/com/dentistry/service/BuscarDentistasServiceImplTest.class
+br/com/dentistry/DentistryApplicationTests.class
+br/com/dentistry/service/BuscarDentistaPorIdServiceImplTest.class
+br/com/dentistry/service/CadastroDentistaServiceImplTest.class

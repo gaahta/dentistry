@@ -1,0 +1,12 @@
+br/com/dentistry/datasource/model/Dentista.class
+br/com/dentistry/exception/DentistaResourceException.class
+br/com/dentistry/service/CadastroDentistaServiceImpl.class
+br/com/dentistry/DentistryApplication.class
+br/com/dentistry/controller/DentistaController.class
+br/com/dentistry/service/BuscarDentistaPorIdServiceImpl.class
+br/com/dentistry/exception/DentistaNotFoundException.class
+br/com/dentistry/service/BuscarDentistasServiceImpl.class
+br/com/dentistry/service/DentistaConversor.class
+br/com/dentistry/repository/DentistaRepository.class
+br/com/dentistry/resource/model/DentistaResource.class
+
